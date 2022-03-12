@@ -15,9 +15,10 @@
 + 暴力：哈希表
 + 优化：位运算 + 数字电路设计
 
-# 第二部分 双指针 / 滑动窗口
 [剑指 Offer II 005. 单词长度的最大乘积](https://leetcode-cn.com/problems/aseY1I/)>>>>>[318. 最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/)
 + 位运算（存储方式有些小独特，值得借鉴）
+
+# 第二部分 双指针 / 滑动窗口（数组）
 
 [剑指 Offer II 006. 排序数组中两个数字之和](https://leetcode-cn.com/problems/kLl5u1/)>>>>>[167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 + 哈希字典
@@ -35,7 +36,8 @@
 [剑指 Offer II 009. 乘积小于 K 的子数组](https://leetcode-cn.com/problems/ZVAVXX/)>>>>>[713. 乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)
 + 滑动窗口
 
-# 第三部分 哈希表 + 前缀和
+# 第三部分 哈希表 + 前缀和（数组）
+
 [剑指 Offer II 010. 和为 k 的子数组](https://leetcode-cn.com/problems/QTMn0o/)>>>>>[560. 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 + 暴力：枚举
 + 优化：哈希表 + 前缀和
@@ -49,7 +51,7 @@
 [剑指 Offer II 013. 二维子矩阵的和](https://leetcode-cn.com/problems/O4NDxx/)>>>>>[304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
 + 前缀和
 
-# 第四部分 字符串处理
+# 第四部分 桶计数 + 滑动窗口（字符串处理）
 
 [剑指 Offer II 014. 字符串中的变位词](https://leetcode-cn.com/problems/MPnaiL/)>>>>>[567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
 + 桶计数 + 滑动窗口
@@ -64,4 +66,12 @@
 
 [剑指 Offer II 017. 含有所有字符的最短字符串](https://leetcode-cn.com/problems/M1oyTv/)>>>>>[76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
 + 桶计数 + 滑动窗口
+
+# 第五部分 回文字符串处理
+
+[剑指 Offer II 018. 有效的回文](https://leetcode-cn.com/problems/XltzEq/)>>>>>[125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
++ 双指针
+
+[剑指 Offer II 019. 最多删除一个字符得到回文](https://leetcode-cn.com/problems/RQku0D/)>>>>>[680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)
++ 双指针
 
