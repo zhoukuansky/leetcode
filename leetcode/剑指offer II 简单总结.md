@@ -67,7 +67,7 @@
 [剑指 Offer II 017. 含有所有字符的最短字符串](https://leetcode-cn.com/problems/M1oyTv/)>>>>>[76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
 + 桶计数 + 滑动窗口
 
-# 第五部分 回文字符串处理
+# 第五部分 回文字符串处理（双指针）
 
 [剑指 Offer II 018. 有效的回文](https://leetcode-cn.com/problems/XltzEq/)>>>>>[125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 + 双指针
@@ -76,6 +76,16 @@
 + 双指针
 
 [剑指 Offer II 020. 回文子字符串的个数](https://leetcode-cn.com/problems/a7VOhD/)>>>>>[647. 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)
-+ 双指针（中心扩展算法） / 动态规划(dp)
-+ 马拉车算法 （一般用于求字符串的最大回文子串，这里也能用）
++ 基本：双指针（中心扩展算法） / 动态规划(dp)
++ 优化;马拉车算法 （一般用于求字符串的最大回文子串，这里也能用）
++ 总时间效率：马拉车 > 中心扩散 > 动态规划
+
+# 第六部分 链表处理（）
+[剑指 Offer II 021. 删除链表的倒数第 n 个结点](https://leetcode-cn.com/problems/SLwz0R/)>>>>>[19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/submissions/)
++ 前后双指针 / 递归 / 堆栈
+
+[剑指 Offer II 022. 链表中环的入口节点](https://leetcode-cn.com/problems/c32eOV/)>>>>>[142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
++ 哈希表
++ 快慢指针（龟兔赛跑）解法：Floyd 判圈算法
+
 
