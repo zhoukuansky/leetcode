@@ -75,3 +75,7 @@
 [剑指 Offer II 019. 最多删除一个字符得到回文](https://leetcode-cn.com/problems/RQku0D/)>>>>>[680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 + 双指针
 
+[剑指 Offer II 020. 回文子字符串的个数](https://leetcode-cn.com/problems/a7VOhD/)>>>>>[647. 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)
++ 双指针（中心扩展算法） / 动态规划(dp)
++ 马拉车算法 （一般用于求字符串的最大回文子串，这里也能用）
+
