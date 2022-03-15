@@ -88,4 +88,12 @@
 + 哈希表
 + 快慢指针（龟兔赛跑）解法：Floyd 判圈算法
 
+[剑指 Offer II 023. 两个链表的第一个重合节点](https://leetcode-cn.com/problems/3u1WK4/)>>>>>[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
++ 哈希表
++ 双指针
+
+[剑指 Offer II 024. 反转链表](https://leetcode-cn.com/problems/UHnkqh/)>>>>>[206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/submissions/)
++ 迭代 / 递归
+
+
 
