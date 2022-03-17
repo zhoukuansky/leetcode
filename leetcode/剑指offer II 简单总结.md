@@ -95,5 +95,28 @@
 [剑指 Offer II 024. 反转链表](https://leetcode-cn.com/problems/UHnkqh/)>>>>>[206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/submissions/)
 + 迭代 / 递归
 
+[剑指 Offer II 025. 链表中的两数相加](https://leetcode-cn.com/problems/lMSNwu/)>>>>>[445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)
++ 反转链表（迭代 / 递归）
++ 堆栈
+
+[剑指 Offer II 026. 重排链表](https://leetcode-cn.com/problems/LGjMqU/)>>>>>[143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
++ 线性表
+
+[剑指 Offer II 027. 回文链表](https://leetcode-cn.com/problems/aMhZSa/)>>>>>[234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
++ 动态数组 + 双指针
++ 递归
+
+[剑指 Offer II 028. 展平多级双向链表](https://leetcode-cn.com/problems/Qv1Da2/)>>>>>[430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)
++ 堆栈方法
++ 二叉树法(将题目看成一棵二叉树)
+
+[剑指 Offer II 029. 排序的循环链表](https://leetcode-cn.com/problems/4ueAj6/)>>>>>会员专享无法查看
++ 模拟（硬生生模拟）
 
 
+
+[剑指 Offer II 030. 插入、删除和随机访问都是 O(1) 的容器](https://leetcode-cn.com/problems/FortPu/)>>>>>[380. O(1) 时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
++ 哈希字典 + 动态数组
+
+[剑指 Offer II 032. 有效的变位词](https://leetcode-cn.com/problems/dKk3P7/)>>>>>[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
++ 简单桶计数
