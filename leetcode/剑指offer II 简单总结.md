@@ -113,10 +113,14 @@
 [剑指 Offer II 029. 排序的循环链表](https://leetcode-cn.com/problems/4ueAj6/)>>>>>会员专享无法查看
 + 模拟（硬生生模拟）
 
-
-
+# 第七部分 场景模拟（）
 [剑指 Offer II 030. 插入、删除和随机访问都是 O(1) 的容器](https://leetcode-cn.com/problems/FortPu/)>>>>>[380. O(1) 时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
 + 哈希字典 + 动态数组
 
+[剑指 Offer II 031. 最近最少使用缓存](https://leetcode-cn.com/problems/OrIXps/)>>>>>[146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/submissions/)
++ 哈希字典 + 双向链表
+
+# 第八部分 场景模拟（）
 [剑指 Offer II 032. 有效的变位词](https://leetcode-cn.com/problems/dKk3P7/)>>>>>[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 + 简单桶计数
+
