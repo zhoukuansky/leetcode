@@ -120,7 +120,17 @@
 [剑指 Offer II 031. 最近最少使用缓存](https://leetcode-cn.com/problems/OrIXps/)>>>>>[146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/submissions/)
 + 哈希字典 + 双向链表
 
-# 第八部分 场景模拟（）
+# 第八部分 排序的应用
 [剑指 Offer II 032. 有效的变位词](https://leetcode-cn.com/problems/dKk3P7/)>>>>>[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 + 简单桶计数
 
+[剑指 Offer II 033. 变位词组](https://leetcode-cn.com/problems/sfvd7V/)>>>>>[49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
++ 哈希字典 + 排序
+
+[剑指 Offer II 034. 外星语言是否排序](https://leetcode-cn.com/problems/lwyVBB/)>>>>>[953. 验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)
++ 模拟
+
+[剑指 Offer II 035. 最小时间差](https://leetcode-cn.com/problems/569nqc/)>>>>>[539. 最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/)
++ 模拟+ 排序
+
+# 第九部分 堆栈
