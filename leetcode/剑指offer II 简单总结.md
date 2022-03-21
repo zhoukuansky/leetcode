@@ -134,3 +134,16 @@
 + 模拟+ 排序
 
 # 第九部分 堆栈
+[剑指 Offer II 036. 后缀表达式](https://leetcode-cn.com/problems/8Zf90G/)>>>>>[150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
++ 堆栈
+
+[剑指 Offer II 037. 小行星碰撞](https://leetcode-cn.com/problems/XagZNi/)>>>>>[735. 行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/)
++ 堆栈 + 模拟
+
+[剑指 Offer II 038. 每日温度](https://leetcode-cn.com/problems/iIQa4I/)>>>>>[739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
++ 单调递减栈
+
+[剑指 Offer II 039. 直方图最大矩形面积](https://leetcode-cn.com/problems/0ynMMM/)>>>>>[84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
++ 暴力解法(双指针/中心扩散)
++ 单调递增栈 + 哨兵
+
