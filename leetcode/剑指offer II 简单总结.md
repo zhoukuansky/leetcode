@@ -150,3 +150,25 @@
 [剑指 Offer II 040. 矩阵中最大的矩形](https://leetcode-cn.com/problems/PLYXKQ/)>>>>>[85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)
 + 暴力解法：柱状图
 + 单调递增栈
+
+# 第十部分 滑动窗口
+[剑指 Offer II 041. 滑动窗口的平均值](https://leetcode-cn.com/problems/qIsx9U/)>>>>>会员专享无法查看
++ 滑动窗口
+
+[剑指 Offer II 042. 最近请求次数](https://leetcode-cn.com/problems/H8086Q/)>>>>>[933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)
++ 滑动窗口
+
+# 第十一部分 层序遍历二叉树
+[剑指 Offer II 043. 往完全二叉树添加节点](https://leetcode-cn.com/problems/NaqhDT/)>>>>>[919. 完全二叉树插入器](https://leetcode-cn.com/problems/complete-binary-tree-inserter/)
++ 层序遍历（两次运用队列）
+
+[剑指 Offer II 044. 二叉树每层的最大值](https://leetcode-cn.com/problems/hPov7L/)>>>>>[515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/submissions/)
++ 迭代(层序遍历) / 递归
+
+[剑指 Offer II 045. 二叉树最底层最左边的值](https://leetcode-cn.com/problems/LwUNpT/)>>>>>[513. 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)
++ 迭代(层序遍历) / 递归
+
+[剑指 Offer II 046. 二叉树的右侧视图](https://leetcode-cn.com/problems/WNC0Lk/)>>>>>[199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
++ 迭代(层序遍历) / 递归
+
+
