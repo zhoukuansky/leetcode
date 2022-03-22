@@ -163,12 +163,26 @@
 + 层序遍历（两次运用队列）
 
 [剑指 Offer II 044. 二叉树每层的最大值](https://leetcode-cn.com/problems/hPov7L/)>>>>>[515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/submissions/)
-+ 迭代(层序遍历) / 递归
++ 迭代(层序遍历) / 递归深搜
 
 [剑指 Offer II 045. 二叉树最底层最左边的值](https://leetcode-cn.com/problems/LwUNpT/)>>>>>[513. 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)
-+ 迭代(层序遍历) / 递归
++ 迭代(层序遍历) / 递归深搜
 
 [剑指 Offer II 046. 二叉树的右侧视图](https://leetcode-cn.com/problems/WNC0Lk/)>>>>>[199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
-+ 迭代(层序遍历) / 递归
++ 迭代(层序遍历) / 递归深搜
+
+[剑指 Offer II 047. 二叉树剪枝](https://leetcode-cn.com/problems/pOCWxh/)>>>>>[814. 二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning/)
++ 递归深搜
+
+[剑指 Offer II 048. 序列化与反序列化二叉树](https://leetcode-cn.com/problems/h54YBf/)>>>>>[297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
++ 递归深搜 / 层序迭代
+
+[剑指 Offer II 049. 从根节点到叶节点的路径数字之和](https://leetcode-cn.com/problems/3Etpl5/)>>>>>[129. 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
++ 递归深搜
+
+[剑指 Offer II 050. 向下的路径节点之和](https://leetcode-cn.com/problems/6eUYwP/)>>>>>[437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)
++ 暴力： 递归深搜 + 枚举遍历
++ 优化： 递归深搜 + 哈希字典 + 前缀和
+
 
 
