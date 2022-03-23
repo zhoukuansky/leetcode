@@ -184,5 +184,7 @@
 + 暴力： 递归深搜 + 枚举遍历
 + 优化： 递归深搜 + 哈希字典 + 前缀和
 
+[剑指 Offer II 051. 节点之和最大的路径](https://leetcode-cn.com/problems/jC7MId/)>>>>>[124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
++ 递归
 
 
