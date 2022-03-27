@@ -187,4 +187,26 @@
 [剑指 Offer II 051. 节点之和最大的路径](https://leetcode-cn.com/problems/jC7MId/)>>>>>[124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 + 递归
 
+# 第十二部分 二叉搜索树
+[剑指 Offer II 052. 展平二叉搜索树](https://leetcode-cn.com/problems/NYBBNL/)>>>>>[897. 递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/)
++ 递归中序遍历
 
+[剑指 Offer II 053. 二叉搜索树中的中序后继](https://leetcode-cn.com/problems/P5rCT8/)>>>>>会员专享无法查看   
++ 中序遍历：并未利用到二叉搜索树的性质
++ 模拟：利用二叉搜索树性质
+
+[剑指 Offer II 054. 所有大于等于节点的值之和](https://leetcode-cn.com/problems/w6cpku/)>>>>>[538. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)>>>>>[1038. 从二叉搜索树到更大和树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/)
++ 中序遍历（倒过来）
+
+[剑指 Offer II 055. 二叉搜索树迭代器](https://leetcode-cn.com/problems/kTOapQ/)>>>>>[173. 二叉搜索树迭代器
+](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
++ 中序遍历 + 动态数组
+
+[剑指 Offer II 056. 二叉搜索树中两个节点之和](https://leetcode-cn.com/problems/opLdQZ/)>>>>>[653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)
++ 哈希集合：并未利用到二叉搜索树的性质（优化解法暂时不写）
+
+# 第十三部分 滑动窗口
+[剑指 Offer II 057. 值和下标之差都在给定的范围内](https://leetcode-cn.com/problems/7WqeDu/)>>>>>[220. 存在重复元素 III
+](https://leetcode-cn.com/problems/contains-duplicate-iii/)
++ 有序集合 + 滑动窗口
++ 优化：桶计数 + 滑动窗口（本质是将有序集合换为哈希字典减少时间复杂度）
