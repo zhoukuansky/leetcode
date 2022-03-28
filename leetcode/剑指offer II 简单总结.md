@@ -210,3 +210,12 @@
 ](https://leetcode-cn.com/problems/contains-duplicate-iii/)
 + 有序集合 + 滑动窗口
 + 优化：桶计数 + 滑动窗口（本质是将有序集合换为哈希字典减少时间复杂度）
+
+[剑指 Offer II 058. 日程表](https://leetcode-cn.com/problems/fi9suh/)>>>>>[729. 我的日程安排表 I](https://leetcode-cn.com/problems/my-calendar-i/)
++ 有序字典
+
+[剑指 Offer II 059. 数据流的第 K 大数值](https://leetcode-cn.com/problems/jBjn9C/)>>>>>[703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
++ 优先队列：小顶堆
+
+[剑指 Offer II 060. 出现频率最高的 k 个数字](https://leetcode-cn.com/problems/g5c51o/)>>>>>[347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
++ 小顶堆 + 哈希字典
