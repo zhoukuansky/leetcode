@@ -274,7 +274,7 @@
 
 [剑指 Offer II 075. 数组相对排序](https://leetcode-cn.com/problems/0H97ZC/)>>>>>[1122. 数组的相对排序
 ](https://leetcode-cn.com/problems/relative-sort-array/)
-+ 自定义排序
++ 自定义排序(java实现较为复杂)
 + 计数排序
 
 [剑指 Offer II 076. 数组中的第 k 大的数字](https://leetcode-cn.com/problems/xx4gT2/)>>>>>[215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
