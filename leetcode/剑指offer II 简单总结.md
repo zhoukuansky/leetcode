@@ -205,7 +205,7 @@
 [剑指 Offer II 056. 二叉搜索树中两个节点之和](https://leetcode-cn.com/problems/opLdQZ/)>>>>>[653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)
 + 哈希集合：并未利用到二叉搜索树的性质（优化解法暂时不写）
 
-# 第十三部分 滑动窗口
+# 第十三部分 有序集合 / 有序字典 / 优先队列（大小顶堆）
 [剑指 Offer II 057. 值和下标之差都在给定的范围内](https://leetcode-cn.com/problems/7WqeDu/)>>>>>[220. 存在重复元素 III
 ](https://leetcode-cn.com/problems/contains-duplicate-iii/)
 + 有序集合 + 滑动窗口
@@ -219,3 +219,81 @@
 
 [剑指 Offer II 060. 出现频率最高的 k 个数字](https://leetcode-cn.com/problems/g5c51o/)>>>>>[347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
 + 小顶堆 + 哈希字典
+
+[剑指 Offer II 061. 和最小的 k 个数对](https://leetcode-cn.com/problems/qn8gGX/)>>>>>[373. 查找和最小的 K 对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/)
++ 大顶堆
+
+
+# 第十四部分 字典树
+[剑指 Offer II 062. 实现前缀树](https://leetcode-cn.com/problems/QC3q1f/)>>>>>[208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
++ 前缀字典树构造
+
+[剑指 Offer II 063. 替换单词](https://leetcode-cn.com/problems/UhWRSj/)>>>>>[648. 单词替换](https://leetcode-cn.com/problems/replace-words/)
++ 构造前缀字典树
+
+[剑指 Offer II 064. 神奇的字典](https://leetcode-cn.com/problems/US1pGT/)>>>>>[676. 实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary/)
++ 哈希字典 + 动态数组
++ 前缀字典树 + 递归（未实现）
+
+[剑指 Offer II 065. 最短的单词编码](https://leetcode-cn.com/problems/iSwD2y/)>>>>>[820. 单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/)
++ 暴力：哈希表存储后缀
++ 优化：后缀字典树
+
+[剑指 Offer II 066. 单词之和](https://leetcode-cn.com/problems/z1R5dt/)>>>>>[677. 键值映射](https://leetcode-cn.com/problems/map-sum-pairs/)
++ 哈希字典
++ 前缀字典树
+
+[剑指 Offer II 067. 最大的异或](https://leetcode-cn.com/problems/ms70jA/)>>>>>[421. 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)
++ 哈希表
++ 前缀字典树
+
+# 第十四部分 二分法
+[剑指 Offer II 068. 查找插入位置](https://leetcode-cn.com/problems/N6YdxV/)>>>>>[35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
++ 二分法
+
+[剑指 Offer II 069. 山峰数组的顶部](https://leetcode-cn.com/problems/B1IidL/)>>>>>[852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)
++ 暴力法：模拟
++ 优化：二分法
+
+[剑指 Offer II 070. 排序数组中只出现一次的数字](https://leetcode-cn.com/problems/skFtm2/)>>>>>[540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)
++ 二分法
+
+[剑指 Offer II 071. 按权重生成随机数](https://leetcode-cn.com/problems/cuyjEf/)>>>>>[528. 按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/submissions/)
++ 前缀和 + 二分查找
+
+[剑指 Offer II 072. 求平方根](https://leetcode-cn.com/problems/jJ0w9p/)>>>>>[69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
++ 二分查找（除法代替乘法）
+
+[剑指 Offer II 073. 狒狒吃香蕉](https://leetcode-cn.com/problems/nZZqjQ/)>>>>>[875. 爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/)
++ 二分查找
+
+
+# 第十五部分 排序
+[剑指 Offer II 074. 合并区间](https://leetcode-cn.com/problems/SsGoHC/)>>>>>[56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
++ 排序 + 模拟
+
+[剑指 Offer II 075. 数组相对排序](https://leetcode-cn.com/problems/0H97ZC/)>>>>>[1122. 数组的相对排序
+](https://leetcode-cn.com/problems/relative-sort-array/)
++ 自定义排序
++ 计数排序
+
+[剑指 Offer II 076. 数组中的第 k 大的数字](https://leetcode-cn.com/problems/xx4gT2/)>>>>>[215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
++ 排序/最小堆
+
+[剑指 Offer II 077. 链表排序](https://leetcode-cn.com/problems/7WHec2/)>>>>>[148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
++ 暴力排序
++ 归并排序（未实现和理解）
+
+[剑指 Offer II 078. 合并排序链表](https://leetcode-cn.com/problems/vvXgSW/)>>>>>[23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
++ 小顶堆
+
+
+# 第十五部分 递归回溯剪枝
+[剑指 Offer II 079. 所有子集](https://leetcode-cn.com/problems/TVdhkn/)>>>>>[78. 子集](https://leetcode-cn.com/problems/subsets/)
++ 迭代回溯枚举 / 递归回溯枚举
+
+[剑指 Offer II 080. 含有 k 个元素的组合](https://leetcode-cn.com/problems/uUsW3B/)>>>>>[77. 组合](https://leetcode-cn.com/problems/combinations/)
++ 递归回溯剪枝
+
+[剑指 Offer II 081. 允许重复选择元素的组合](https://leetcode-cn.com/problems/Ygoe9J/)>>>>>[39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
++ 递归回溯剪枝
