@@ -288,7 +288,7 @@
 + 小顶堆
 
 
-# 第十五部分 递归回溯剪枝
+# 第十六部分 递归回溯剪枝
 [剑指 Offer II 079. 所有子集](https://leetcode-cn.com/problems/TVdhkn/)>>>>>[78. 子集](https://leetcode-cn.com/problems/subsets/)
 + 迭代回溯枚举 / 递归回溯枚举
 
@@ -297,3 +297,19 @@
 
 [剑指 Offer II 081. 允许重复选择元素的组合](https://leetcode-cn.com/problems/Ygoe9J/)>>>>>[39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
 + 递归回溯剪枝
+
+[剑指 Offer II 082. 含有重复元素集合的组合](https://leetcode-cn.com/problems/4sjJUc/)>>>>>[40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
++ 递归回溯剪枝
+
+[剑指 Offer II 083. 没有重复元素集合的全排列](https://leetcode-cn.com/problems/VvJkup/)>>>>>[46. 全排列](https://leetcode-cn.com/problems/permutations/)
++ 递归回溯剪枝
+
+[剑指 Offer II 084. 含有重复元素集合的全排列 ](https://leetcode-cn.com/problems/7p8L0Z/)>>>>>[47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
++ 递归回溯剪枝
+
+[剑指 Offer II 085. 生成匹配的括号](https://leetcode-cn.com/problems/IDBivT/)>>>>>[22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)+
++ 递归回溯剪枝
+
+[剑指 Offer II 086. 分割回文子字符串](https://leetcode-cn.com/problems/M99OJA/)>>>>>[131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
++ 动态规划 + 递归回溯剪枝
+
