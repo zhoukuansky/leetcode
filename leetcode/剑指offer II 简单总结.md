@@ -247,7 +247,7 @@
 + 哈希表
 + 前缀字典树
 
-# 第十四部分 二分法
+# 第十五部分 二分法
 [剑指 Offer II 068. 查找插入位置](https://leetcode-cn.com/problems/N6YdxV/)>>>>>[35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
 + 二分法
 
@@ -268,7 +268,7 @@
 + 二分查找
 
 
-# 第十五部分 排序
+# 第十六部分 排序
 [剑指 Offer II 074. 合并区间](https://leetcode-cn.com/problems/SsGoHC/)>>>>>[56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
 + 排序 + 模拟
 
@@ -288,7 +288,7 @@
 + 小顶堆
 
 
-# 第十六部分 递归回溯剪枝
+# 第十七部分 递归回溯剪枝
 [剑指 Offer II 079. 所有子集](https://leetcode-cn.com/problems/TVdhkn/)>>>>>[78. 子集](https://leetcode-cn.com/problems/subsets/)
 + 迭代回溯枚举 / 递归回溯枚举
 
@@ -313,3 +313,5 @@
 [剑指 Offer II 086. 分割回文子字符串](https://leetcode-cn.com/problems/M99OJA/)>>>>>[131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
 + 动态规划 + 递归回溯剪枝
 
+[剑指 Offer II 087. 复原 IP ](https://leetcode-cn.com/problems/0on3uN/)>>>>>[93. 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
++ 递归回溯剪枝
