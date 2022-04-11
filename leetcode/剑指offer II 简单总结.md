@@ -315,3 +315,96 @@
 
 [剑指 Offer II 087. 复原 IP ](https://leetcode-cn.com/problems/0on3uN/)>>>>>[93. 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
 + 递归回溯剪枝
+
+# 第十八部分 动态规划
+[剑指 Offer II 088. 爬楼梯的最少成本](https://leetcode-cn.com/problems/GzCJIP/)>>>>>[746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
++ 动态规划
+
+[剑指 Offer II 089. 房屋偷盗](https://leetcode-cn.com/problems/Gu0c2T/)>>>>>[198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
++ 动态规划
+
+[剑指 Offer II 090. 环形房屋偷盗](https://leetcode-cn.com/problems/PzWKhm/)>>>>>[213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
++ 动态规划
+
+[剑指 Offer II 091. 粉刷房子](https://leetcode-cn.com/problems/JEj789/)>>>>>会员专享无法查看
++ 动态规划（二维）
+
+[剑指 Offer II 092. 翻转字符](https://leetcode-cn.com/problems/cyJERH/)>>>>>[926. 将字符串翻转到单调递增](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)
++ 动态规划
+
+[剑指 Offer II 093. 最长斐波那契数列](https://leetcode-cn.com/problems/Q91FMA/)>>>>>[873. 最长的斐波那契子序列的长度](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/)
++ 暴力：哈希集合
++ 优化：动态规划
+
+[剑指 Offer II 094. 最少回文分割](https://leetcode-cn.com/problems/omKAoA/)>>>>>[132. 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)
++ 动态规划（两次使用）
+
+[剑指 Offer II 095. 最长公共子序列](https://leetcode-cn.com/problems/qJnOS7/)>>>>>[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
++ 动态规划（二维）
+
+[剑指 Offer II 096. 字符串交织](https://leetcode-cn.com/problems/IY6buf/)>>>>>[97. 交错字符串](https://leetcode-cn.com/problems/interleaving-string/)
++ 动态规划（二维）
+
+[剑指 Offer II 097. 子序列的数目](https://leetcode-cn.com/problems/21dk04/)>>>>>[115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)
++ 动态规划（二维）
+
+[剑指 Offer II 098. 路径的数目](https://leetcode-cn.com/problems/2AoeFn/)>>>>>[62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
++ 简单  动态规划
++ 数学方案（高中知识）：组合
+
+[剑指 Offer II 099. 最小路径之和](https://leetcode-cn.com/problems/0i0mDW/)>>>>>[64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
++ 动态规划
+
+[剑指 Offer II 100. 三角形中最小路径之和](https://leetcode-cn.com/problems/IlPe0q/)>>>>>[120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
++ 动态规划
+
+# 第十九部分 动态规划（背包问题）
+
+[剑指 Offer II 101. 分割等和子集](https://leetcode-cn.com/problems/NUPfPr/)>>>>>[416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
++ 动态规划：背包问题
+
+[剑指 Offer II 102. 加减的目标值](https://leetcode-cn.com/problems/YaVDxD/)>>>>>[494. 目标和](https://leetcode-cn.com/problems/target-sum/)
++ 递归迭代
++ 动态规划：0-1背包问题
+
+[剑指 Offer II 103. 最少的硬币数目](https://leetcode-cn.com/problems/gaM7Ch/)>>>>>[322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
++ 动态规划：完全规划问题
+
+[剑指 Offer II 104. 排列的数目](https://leetcode-cn.com/problems/D0F0SV/)>>>>>[377. 组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)
++ 动态规划：背包问题变种
+
+# 第二十部分 深搜 / 广搜 / 并查集
+
+[剑指 Offer II 105. 岛屿的最大面积](https://leetcode-cn.com/problems/ZL6zAn/)>>>>>[695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
++ 深度优先搜索（递归 / 堆栈）
++ 广度优先搜索（队列）
++ 并查集（未实现）
+
+[剑指 Offer II 106. 二分图](https://leetcode-cn.com/problems/vEAB3K/)>>>>>[785. 判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)
++ 深度优先搜索（递归染色法）
++ 广度优先搜索（队列）
+
+[剑指 Offer II 107. 矩阵中的距离](https://leetcode-cn.com/problems/2bCMpM/)>>>>>[542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/)
++ 广度优先搜索
++ 动态规划
+
+[剑指 Offer II 108. 单词演变](https://leetcode-cn.com/problems/om3reC/)>>>>>[127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)
++ 广度优先遍历
++ 先建图，再广搜
+
+[剑指 Offer II 109. 开密码锁](https://leetcode-cn.com/problems/zlDJc7/)>>>>>[752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)
++ 广度优先搜索
+
+[剑指 Offer II 110. 所有路径](https://leetcode-cn.com/problems/bP4bmD/)>>>>>[797. 所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)
++ 深度优先搜索
+
+[剑指 Offer II 112. 最长递增路径](https://leetcode-cn.com/problems/fpTFWP/)>>>>>[329. 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
++ 记忆化深度优先搜索
+
+# 第二十一部分 拓扑排序
+
+[剑指 Offer II 113. 课程顺序](https://leetcode-cn.com/problems/QA2IGt/)>>>>>[210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/)
++ 拓扑排序（深度优先搜索）
+
+[剑指 Offer II 114. 外星文字典](https://leetcode-cn.com/problems/Jf1JuT/)>>>>>会员专享无法查看
++ 拓扑排序（广度优先搜索）
