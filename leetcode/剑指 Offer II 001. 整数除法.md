@@ -66,7 +66,7 @@ https://leetcode-cn.com/problems/xoh6Oh/solution/jian-dan-yi-dong-javac-pythonjs
 
 # 代码  
 java实现：   
-```
+```java
 class Solution {
     public int divide(int a, int b) {
         //return sub(a, b);

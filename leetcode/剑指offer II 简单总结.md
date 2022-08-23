@@ -2,6 +2,8 @@
 
 [剑指 Offer II 001. 整数除法](https://leetcode-cn.com/problems/xoh6Oh/)>>>>>[29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/)  
 + 位运算：减法代替除法
++ 优化1：快速乘法
++ 优化2：位运算优化
 
 [剑指 Offer II 002. 二进制加法](https://leetcode-cn.com/problems/JFETK5/)>>>>>[67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
 + 位运算：简单模拟

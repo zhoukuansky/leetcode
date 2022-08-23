@@ -55,7 +55,7 @@
 
 # 代码  
 java实现：   
-```
+```java
 class Solution {
     public int[] countBits(int n) {
         //return countBrian(n);
@@ -68,7 +68,7 @@ class Solution {
     // 时间复杂度：O(nlogn)
     public int[] countBrian(int n) {
         int[] res = new int[n + 1];
-        for (int i = 0; i <= n; i++) {
+        for (int i = 1; i <= n; i++) {
             int k = i, count = 0;
             while (k > 0) {
             // Brian Kernighan 算法核心
@@ -78,7 +78,6 @@ class Solution {
             }
             res[i] = count;
         }
-        int count = 0;
         return res;
     }
 
@@ -96,7 +95,9 @@ class Solution {
         return res;
     }
 
-    // 动态规划——最低有效位：bits[x] 的值等于bit[x / 2]的值加上 xx 除以 22 的余数
+    // 动态规划——最低有效位：bits[x] 的值等于bit[x / 2]的值加上 xx 除以 2 的余数
+    // 如果 xx 是偶数，则 bits[x]=bits[x/2]
+    // 如果 xx 是偶数，则 bits[x]=bits[x/2]+1
     // 时间复杂度：O(n)
     public int[] countLowBit(int n) {
         int[] res = new int[n + 1];

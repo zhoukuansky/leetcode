@@ -49,26 +49,29 @@
 
 # 代码  
 java实现：   
-```
+```java
 class Solution {
     // 位运算
     public int maxProduct(String[] words) {
-        int len = words.length;
-        /**
-        全是小写字母, 可以用一个32位整数表示一个word中出现的字母, 
-        hash[i]存放第i个单词出现过的字母, a对应32位整数的最后一位,
-        b对应整数的倒数第二位, 依次类推. 时间复杂度O(N^2)
-        判断两两单词按位与的结果, 如果结果为0且长度积大于最大积则更新
-        **/
-        int[] hash = new int[len];
-        int res = 0;
-        for (int i = 0; i < len; i++) {
-            for (char ch : words[i].toCharArray()) {
-                hash[i] |= 1 << (ch - 'a');
+        int n = words.length;
+        int[] hash = new int[n];
+        for (int i = 0; i < n; i++) {
+            String word = words[i];
+            /**
+            英文字母总共26个
+            全是小写字母, 可以用一个32位整数表示一个word中出现的字母, 
+            hash[i]存放第i个单词出现过的字母, a对应32位整数的最后一位,
+            b对应整数的倒数第二位, 依次类推. 时间复杂度O(N^2)
+            判断两两单词按位与的结果, 如果结果为0且长度积大于最大积则更新
+            */
+            for (int k = 0; k < word.length(); k++) {
+                int index = word.charAt(k) - 'a';
+                hash[i] |= (1 << index);
             }
         }
-        for (int i = 0; i < len; i++) {
-            for (int j = i + 1; j < len; j++) {
+        int res = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
                 if ((hash[i] & hash[j]) == 0) {
                     res = Math.max(res, words[i].length() * words[j].length());
                 }
@@ -79,7 +82,7 @@ class Solution {
 }
 ```
 python实现：   
-```
+```py
 class Solution:
     # 位运算
     def maxProduct(self, words: List[str]) -> int:
